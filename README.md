@@ -1,7 +1,7 @@
-# CSV Data Analyzer
+# CSV Data Analyser
 
 ## Overview
-This is a Python-based CSV Data Analyzer that:
+This is a Python-based CSV Data Analyser that:
 1. Loads a CSV file.
 2. Provides insights such as totals, averages, and missing values.
 3. Generates visualizations for numeric columns.
