@@ -1,0 +1,5 @@
+Total Rows: 5
+Total Columns: 4
+Column Names: ['Name', 'Age', 'Salary', 'Department']
+Data Types: {'Name': dtype('O'), 'Age': dtype('int64'), 'Salary': dtype('int64'), 'Department': dtype('O')}
+Missing Values: {'Name': 0, 'Age': 0, 'Salary': 0, 'Department': 0}
