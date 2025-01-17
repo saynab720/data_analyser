@@ -13,5 +13,5 @@ This is a Python-based CSV Data Analyser that:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/csv-data-analyzer.git
-   cd csv-data-analyzer
+   git clone https://github.com/your-username/csv-data-analyser.git
+   cd csv-data-analyser
